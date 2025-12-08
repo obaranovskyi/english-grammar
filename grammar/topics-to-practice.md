@@ -1,3 +1,9 @@
-1. How to use "Supposed to"
-2. Sentence structure like this: "Let's wait for the build to complete."
-3. Questions that start from "Do/Does" or "Is/Are"
+- How to use "Supposed to"
+- Sentence structure like this: - Let's **wait for** the build to complete.
+- Questions that start from "Do/Does" or "Is/Are"
+- Train this sentence structure: - **For the night to appear**, the night has to end.
+- How to use "Either"
+- Zero conditional sentences
+- First conditional sentences
+- Second conditional sentences
+- Third conditional sentences
